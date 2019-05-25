@@ -1,12 +1,12 @@
 # English-Turkish-Dictionary
-English Turkish Dictionary with Data Acces
-Add Word
-Word Exam with 2 choice
-Learn Word with timer
-Search
-Word Databse
-Statictics
-Word Databse 500+
+English Turkish Dictionary with Data Acces \n
+Add Word \n
+Word Exam with 2 choice \n
+Learn Word with timer \n 
+Search \n
+Word Databse \n
+Statictics \n
+Word Databse 500+ \n
 ![Screenshot_1](https://user-images.githubusercontent.com/51006791/58371358-52b4c780-7f19-11e9-94a1-d595fd365a89.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/51006791/58371359-52b4c780-7f19-11e9-821a-a8a19e3b9670.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/51006791/58371360-534d5e00-7f19-11e9-810a-dd4ad90f76e3.png)
